@@ -16,3 +16,6 @@ Para examinar este notebook hay que instalar
 
     jupyter notebook
     
+
+
+https://github.com/enthought/Numpy-Tutorial-SciPyConf-2015/blob/master/slides.pdf
