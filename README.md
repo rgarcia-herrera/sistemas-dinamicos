@@ -1,4 +1,29 @@
-# Matriz de Leslie
+# Algunos notebooks de Sistemas Dinámicos
+
+Para examinar estos notebook hay que instalar
+[jupyter](http://ipython.org) y luego ejecutarlo así desde este
+directorio.
+
+    jupyter notebook
+
+Para familiarizarse con numpy recomiendo [este
+tutorial](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2015/blob/master/slides.pdf),
+es conciso e iluminador.
+
+
+
+## Sucesión de Fibonacci
+
+La característica de esta sucesión es que cada número es la suma de
+los dos que lo preceden. Por definición la sucesión empieza con 1,1, a
+veces con 0,1. Tiene aplicaciones muy interesantes, muchas tienen que
+ver con patrones de crecimiento en sistemas biológicos.
+
+En [este notebook](Fibonacci.ipynb) se presenta un análisis de su
+ecuación de recurrencia y de su fórmula cerrada.
+
+
+## Matriz de Leslie
 
 La Matriz de Leslie se usa en ecología para modelar los cambios en una
 población de organismos a través de un lapso. En este modelo la
@@ -6,16 +31,7 @@ población se divide en grupos de edad. Para cada unidad de tiempo la
 población se representa con un vector con un elemento por cada clase
 de edad.
 
-Se trata de una matriz cuadrada con tantos renglones y columnas como
-el vector de clases tiene elementos. En cada paso de tiempo el vector
-de clases de población se multiplica por la matriz Leslie para generar
-el vector del siguiente paso.
-
-Para examinar este notebook hay que instalar
-[jupyter](http://ipython.org) y luego ejecutarlo así:
-
-    jupyter notebook
+En [este
+notebook](https://github.com/rgarcia-herrera/sistemas-dinamicos/blob/master/Leslie%20Model.ipynb)
+se implementa y analiza el modelo.
     
-
-
-https://github.com/enthought/Numpy-Tutorial-SciPyConf-2015/blob/master/slides.pdf
