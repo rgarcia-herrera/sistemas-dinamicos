@@ -326,5 +326,74 @@ height "1pt"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Formula $A=\left[\begin{array}{cc}
+a & b\\
+c & d
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $A^{-1}=\frac{1}{ad-bc}\left[\begin{array}{cc}
+d & -b\\
+-c & a
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $P^{-1}=\frac{1}{\lambda_{1}-\lambda_{2}}\left[\begin{array}{cc}
+1 & -\lambda_{2}\\
+-1 & \lambda_{1}
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $u_{k}=\left[\begin{array}{cc}
+\lambda_{1} & \lambda_{2}\\
+1 & 1
+\end{array}\right]\left[\begin{array}{cc}
+\lambda_{1}^{k} & 0\\
+0 & \lambda_{2}^{k}
+\end{array}\right]\frac{1}{\lambda_{1}-\lambda_{2}}\left[\begin{array}{cc}
+1 & -\lambda_{2}\\
+-1 & \lambda_{1}
+\end{array}\right]\left[\begin{array}{c}
+1\\
+0
+\end{array}\right]$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $u_{k}=\left[\begin{array}{cc}
+\lambda_{1} & \lambda_{2}\\
+1 & 1
+\end{array}\right]\left[\begin{array}{c}
+\lambda_{1}^{k}\\
+-\lambda_{2}^{k}
+\end{array}\right]\frac{1}{\lambda_{1}-\lambda_{2}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\frac{1}{\lambda_{1}-\lambda_{2}}=\frac{1}{\frac{1+\sqrt{5}}{2}-\frac{1-\sqrt{5}}{2}}=\frac{1}{\frac{(1+\sqrt{5})-(1-\sqrt{5})}{2}}=\frac{1}{\frac{1+\sqrt{5}-1+\sqrt{5})}{2}}=\frac{1}{\frac{2\sqrt{5}}{2}}=\frac{1}{\sqrt{5}}$
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document
