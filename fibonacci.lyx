@@ -73,7 +73,7 @@ F_{k\text{+2}}=F_{k\text{+1}}+F_{k}
 \begin_layout Standard
 \begin_inset Formula 
 \begin{equation}
-F_{k\text{+2}}=\frac{1}{\sqrt{5}}\left[\left(\frac{1+\sqrt{5}}{2}\right)^{k}-\left(\frac{1-\sqrt{5}}{2}\right)^{k}\right]
+F_{k}=\frac{1}{\sqrt{5}}\left[\left(\frac{1+\sqrt{5}}{2}\right)^{k}-\left(\frac{1-\sqrt{5}}{2}\right)^{k}\right]
 \end{equation}
 
 \end_inset
@@ -104,10 +104,10 @@ F_{k\text{+2}}=\frac{1}{\sqrt{5}}\left[\left(\frac{1+\sqrt{5}}{2}\right)^{k}-\le
 
 \begin_layout Standard
 \begin_inset Formula $D\text{=\left[\begin{array}{cccc}
-\lambda_{1} & 0 & \cdots\ & 0\\
-0 & \lambda_{2} & \cdots\ & 0\\
-\vdots\ & \vdots\ & \ddots\ & \vdots\\
-0 & 0 & 0 & \lambda_{n}
+ \lambda_{1}  &  0  &  \cdots\  &  0\\
+0  &  \lambda_{2}  &  \cdots\  &  0\\
+\vdots\  &  \vdots\  &  \ddots\  &  \vdots\\
+0  &  0  &  0  &  \lambda_{n} 
 \end{array}\right]}$
 \end_inset
 
@@ -267,10 +267,6 @@ D^{k}=\left[\begin{array}{cc}
 \end{array}\right]$
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 
 \end_layout
 
