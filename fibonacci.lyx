@@ -270,5 +270,61 @@ D^{k}=\left[\begin{array}{cc}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $(\lambda I-A)\overrightarrow{X}=\overrightarrow{0}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\det(\lambda I-A)=\det\left(\left[\begin{array}{cc}
+\lambda & 0\\
+0 & \lambda
+\end{array}\right]-\left[\begin{array}{cc}
+1 & 1\\
+1 & 0
+\end{array}\right]\right)=\overrightarrow{0}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\det\left(\left[\begin{array}{cc}
+\lambda-1 & -1\\
+-1 & \lambda
+\end{array}\right]\right)=(\lambda-1)\lambda-(-1)(-1)=\lambda^{2}-\lambda-1$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $x=\frac{-b\pm\sqrt{b^{2}-4ac}}{2a}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\lambda=\frac{1\pm\sqrt{-1^{2}-4(1)(-1)}}{2(1)}=\frac{1\pm\sqrt{1+4}}{2}$
+\end_inset
+
+
+\end_layout
+
 \end_body
 \end_document
