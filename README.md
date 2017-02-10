@@ -10,6 +10,8 @@ Para familiarizarse con numpy recomiendo [este
 tutorial](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2015/blob/master/slides.pdf),
 es conciso e iluminador.
 
+También está buena [esta guía de matplotlib](http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)
+
 
 
 ## Sucesión de Fibonacci
