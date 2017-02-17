@@ -85,3 +85,6 @@ Algunos notebooks usan [SymPy](http://sympy.org) para hacer cómputo
 simbólico.
 
 Los notebooks interactivos usan [widgets de ipython](https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20List.html).
+
+Hay que explorar esta biblioteca:
+https://github.com/gboeing/pynamical
