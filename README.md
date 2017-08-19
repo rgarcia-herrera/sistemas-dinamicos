@@ -19,11 +19,11 @@ Este muestra [una ruta al caos](estabilidad.ipynb) con
 
 y con la función tienda.
 
-[Este notebook](PuntosFijos.ipynb) muestra una ecuación que usa una función Trascendental en 
+En [este notebook](PuntosFijos.ipynb) una regla de recurrencia usa una función Trascendental  
 por lo que no puede analizarse algebráicamente. Pero sí numéricamente,
 y para analizar los números: gráficas.
 
-[Un modelo de Glass y Pasternack](Glass_Pasternack.ipynb) que usa
+Finalmente [un modelo de Glass y Pasternack](Glass_Pasternack.ipynb) que usa
 sympy para mecanizar el análisis algebráico. Además tiene widgets que
 permiten la exploración interactiva del modelo.
 
