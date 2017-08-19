@@ -10,22 +10,24 @@ Son notebooks de [Jupyter](http://jupyter.org).
 
 Se trata de funciones recurrentes que a veces encuentran puntos fijos.
 
-Acá tenemos un [modelo de poblaciones de insecto](InsectPop.ipynb) con gráficas de telaraña.
+ - Acá tenemos un [modelo de poblaciones de insecto](InsectPop.ipynb) con gráficas de telaraña.
 
-Este muestra [una ruta al caos](estabilidad.ipynb) con 
+ - Este otro modela [poblaciones de un gusano](Budwom.ipynb).
 
-    def f(x):
-        return (a * x) * (1 - x)
+ - Este muestra [una ruta al caos](estabilidad.ipynb) con 
 
-y con la función tienda.
+       def f(x):
+            return (a * x) * (1 - x)
 
-En [este notebook](PuntosFijos.ipynb) una regla de recurrencia usa una función Trascendental  
-por lo que no puede analizarse algebráicamente. Pero sí numéricamente,
-y para analizar los números: gráficas.
+    y con la función tienda.
 
-Finalmente [un modelo de Glass y Pasternack](Glass_Pasternack.ipynb) que usa
-sympy para mecanizar el análisis algebráico. Además tiene widgets que
-permiten la exploración interactiva del modelo.
+ - En [este notebook](PuntosFijos.ipynb) una regla de recurrencia usa una función Trascendental  
+   por lo que no puede analizarse algebráicamente. Pero sí numéricamente,
+   y para analizar los números: gráficas.
+
+ - Finalmente [un modelo de Glass y Pasternack](Glass_Pasternack.ipynb) que usa
+   sympy para mecanizar el análisis algebráico. Además tiene widgets que
+   permiten la exploración interactiva del modelo.
 
 
 ## Sucesión de Fibonacci
