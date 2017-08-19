@@ -12,7 +12,7 @@ Se trata de funciones recurrentes que a veces encuentran puntos fijos.
 
  - Acá tenemos un [modelo de poblaciones de insecto](InsectPop.ipynb) con gráficas de telaraña.
 
- - Este otro modela [poblaciones de un gusano](Budwom.ipynb).
+ - Este otro modela [poblaciones de un gusano](Budworm.ipynb).
 
  - Este muestra [una ruta al caos](estabilidad.ipynb) con 
 
