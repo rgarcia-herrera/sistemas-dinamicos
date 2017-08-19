@@ -18,6 +18,14 @@ y para analizar los números: gráficas.
 sympy para mecanizar el análisis algebráico. Además tiene widgets que
 permiten la exploración interactiva del modelo.
 
+Por acá hay un [modelo de poblaciones de insecto](InsectPop.ipynb) con gráficas de telaraña.
+
+[Una ruta al caos](estabilidad.ipynb) con 
+
+    def f(x):
+        return (a * x) * (1 - x)
+
+y con la función tienda.
 
 ## Sucesión de Fibonacci
 
