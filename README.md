@@ -1,38 +1,10 @@
 # Algunos notebooks de Sistemas Dinámicos
 
-Este repositorio contiene varios notebooks de
-[Jupyter](http://jupyter.org) con experimentos computacionales sobre
+Este repositorio contiene experimentos computacionales sobre
 sistemas dinámicos, algunos dellos con dinámicas no-lineales. Varios
 son problemas de libros.
 
-## ¿Qués un notebook?
-
-Es un documento que mezcla hipertexto y notación matemática con código
-fuente de computadora, controles interactivos y gráficas, para
-documentar y permitir la exploración de datos y modelos.
-
-Jupyter permite la creación de notebooks en diferentes lenguajes de
-programación, los notebooks de este proyecto están escritos en
-[Python](http://python.org). Los archivos que terminan con *.ipynb*
-son notebooks (interactive python note book).
-
-## Correr notebooks
-
-GitHub permite examinar los documentos pero sin interactividad. Para
-poder experimentar editando el código fuente o con los controles
-interactivos es necesario abrirlos con Jupyter, no basta abrirlos en
-GitHub.
-
-Así que hay que:
-
-1. instalar jupyter
-
-2. descargar o clonar este repositorio
-
-3. correr jupyter desde el directorio donde se haya descargado o clonado
-
-Si estas instrucciones parecen demasiado pregunte dellas a algún amigo
-hacker, será más rápido así.
+Son notebooks de [Jupyter](http://jupyter.org).
 
 ## Puntos fijos
 
@@ -69,6 +41,40 @@ de edad.
 En [este
 notebook](https://github.com/rgarcia-herrera/sistemas-dinamicos/blob/master/Leslie%20Model.ipynb)
 se implementa y analiza el modelo.
+
+
+# ¿Qués un notebook de Jupyter?
+
+Es un documento que mezcla hipertexto y notación matemática con código
+fuente de computadora, controles interactivos y gráficas, para
+documentar y permitir la exploración de datos y modelos.
+
+Jupyter permite la creación de notebooks en diferentes lenguajes de
+programación, los notebooks de este proyecto están escritos en
+[Python](http://python.org). Los archivos que terminan con *.ipynb*
+son notebooks (interactive python note book).
+
+### Correr notebooks
+
+GitHub permite examinar los documentos pero sin interactividad. Para
+poder experimentar editando el código fuente o con los controles
+interactivos es necesario abrirlos con Jupyter, no basta abrirlos en
+GitHub.
+
+Así que hay que:
+
+1. [instalar jupyter](http://jupyter.org/install.html)
+
+2. [descargar](https://github.com/rgarcia-herrera/sistemas-dinamicos/archive/master.zip)
+   y descomprimirlo. O clonar este repositorio con el comando
+   
+       $ git clone https://github.com/rgarcia-herrera/sistemas-dinamicos.git
+
+3. correr jupyter desde el directorio '''sistemas-dinamicos'''. 
+
+       $ cd sistemas-dinamicos/
+       $ jupyter notebook
+
 
 
 # Referencias
