@@ -74,8 +74,8 @@ Así que hay que:
 
 1. [instalar jupyter](http://jupyter.org/install.html)
 
-2. [descargar](https://github.com/rgarcia-herrera/sistemas-dinamicos/archive/master.zip)
-   y descomprimirlo. O clonar este repositorio con el comando
+2. [descargar este repositorio](https://github.com/rgarcia-herrera/sistemas-dinamicos/archive/master.zip)
+   y descomprimirlo. O clonarlo con el comando
    
        $ git clone https://github.com/rgarcia-herrera/sistemas-dinamicos.git
 
