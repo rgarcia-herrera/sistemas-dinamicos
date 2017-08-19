@@ -39,11 +39,11 @@ hacker, será más rápido así.
 
 Estas funciones recurrentes a veces encuentran puntos fijos.
 
-[Este notebook](Puntos fijos.ipynb) muestra una ecuación que usa una función Trascendental,
+[Este notebook](PuntosFijos.ipynb) muestra una ecuación que usa una función Trascendental en 
 por lo que no puede analizarse algebráicamente. Pero sí numéricamente,
 y para analizar los números: gráficas.
 
-[Este modelo de Glass y Pasternack](Glass et Pasternack.ipynb) usa
+[Este modelo de Glass y Pasternack](Glass_Pasternack.ipynb) usa
 sympy para mecanizar el análisis algebráico. Además tiene widgets que
 permiten la exploración interactiva del modelo.
 
