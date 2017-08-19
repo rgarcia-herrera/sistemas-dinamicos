@@ -14,8 +14,7 @@ documentar y permitir la exploración de datos y modelos.
 Jupyter permite la creación de notebooks en diferentes lenguajes de
 programación, los notebooks de este proyecto están escritos en
 [Python](http://python.org). Los archivos que terminan con *.ipynb*
-son notebooks (interactive python note book). No he ligado todos los
-que describo a continuación.
+son notebooks (interactive python note book).
 
 ## Correr notebooks
 
