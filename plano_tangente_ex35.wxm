@@ -3,8 +3,21 @@
 
 /* [wxMaxima: input   start ] */
 z(x,y):=8/(x*y);
-dx = diff(z(x,y), x, 1);
-dy = diff(z(x,y), y, 1);
+define(dx(x,y),diff(z(x,y), x, 1));
+define(dy(x,y),diff(z(x,y), y, 1));
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+dx(1,2);
+dy(1,2);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+tz(x,y):=-6*x-6*y+22;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+wxplot3d([z(x,y), tz(x,y), [x,-5,5], [y,-5,5]])$
 /* [wxMaxima: input   end   ] */
 
 /* Maxima can't load/batch files which end with a comment! */
