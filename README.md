@@ -1,3 +1,7 @@
+Mudé este repo acá:
+
+<https://codeberg.org/rgarcia-herrera/sistemas-dinamicos>
+
 # Algunos notebooks de Sistemas Dinámicos
 
 Este repositorio contiene experimentos computacionales sobre
